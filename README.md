@@ -1,2 +1,1 @@
-# music-shog
-music-shog
+# Jmusic
